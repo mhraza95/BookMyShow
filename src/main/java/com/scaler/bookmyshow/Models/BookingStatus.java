@@ -2,8 +2,8 @@ package com.scaler.bookmyshow.Models;
 
 public enum BookingStatus {
 
-    CONFIRMED,
-    PENDING,
-    BOOKED,
+    CONFIRMED, //1
+    PENDING,  //2
+    BOOKED,    //3
 
 }
